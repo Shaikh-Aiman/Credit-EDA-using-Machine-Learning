@@ -55,6 +55,22 @@ The primary objective of this project is to design and implement an intelligent 
      - Saves trained models and scalers for future inference.
      - Enables easy integration with deployment systems.
 
+### Installation:
+To run this project locally, follow these steps:
+
+- __Clone the repository:__ <br>
+
+
+         git clone https://github.com/Shaikh-Aiman/Credit-EDA-using-Machine-Learning
+
+
+- __Navigate to the project directory:__
+cd Credit-EDA-using-Machine-Learning
+- __Ensure you have Python installed on your system.__
+- __Install the required dependencies.__
+- __Run the application:__
+python main.py
+
 ### Dataset Details
 
 The dataset used in this project is the Default of Credit Card Clients Dataset, obtained from Kaggle and originally published by the UCI Machine Learning Repository. It contains real-world financial and demographic data of credit card users, making it suitable for credit risk analysis and predictive modeling.
