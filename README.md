@@ -1,5 +1,5 @@
 # Credit EDA using Machine Learning
-<img width="1000" height="401" alt="image" src="https://github.com/user-attachments/assets/a324848d-6295-4805-9028-3efdb4ff472a" />
+<img width="1000" height="601" alt="image" src="https://github.com/user-attachments/assets/a324848d-6295-4805-9028-3efdb4ff472a" />
 
 Credit Card Default Risk Analysis is the process of identifying and predicting whether a credit card customer is likely to default on their payment obligations in the upcoming billing cycle. This project leverages exploratory data analysis (EDA), machine learning, and deep learning techniques to analyze historical customer data, uncover behavioral patterns, and build predictive models that assess default risk. The system helps financial institutions make informed credit decisions, minimize financial losses, and improve risk management strategies.
 
