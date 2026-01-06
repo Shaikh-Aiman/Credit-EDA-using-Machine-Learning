@@ -1,8 +1,7 @@
 <p align="center">
   <img 
-    src="https://github.com/user-attachments/assets/7938e712-7c84-44c1-8683-b93f81161ca9" alt="image" width="1200"  height="628"/>
+    src="https://github.com/user-attachments/assets/3f8892ce-5f9f-460d-9082-8ff517bb8f59" alt="giphy" width="600"/>
 </p>
-
 
 - __os –__  Provides functions to interact with the operating system, such as file and directory handling.
 
