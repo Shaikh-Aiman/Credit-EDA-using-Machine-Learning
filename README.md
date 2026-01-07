@@ -76,7 +76,7 @@ python main.py
 The dataset used in this project is the Default of Credit Card Clients Dataset, obtained from Kaggle and originally published by the UCI Machine Learning Repository. It contains real-world financial and demographic data of credit card users, making it suitable for credit risk analysis and predictive modeling.
 [Default of Credit Card Clients Dataset](https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset?resource=download)
 
-- __Dataset Advantages__
+__Dataset Advantages__
 - No missing values
 - Fully numeric (no encoding required)
 - Widely used in academic research and industry case studies
